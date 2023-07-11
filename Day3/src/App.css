@@ -1,0 +1,11 @@
+.app {
+  display:flex;
+  justify-content: center;
+  grid-template-columns: repeat(2, 2fr);
+  align-items: center;
+  height: 100vh;
+}
+
+.box + .box {
+  margin-left: 20px;
+}
