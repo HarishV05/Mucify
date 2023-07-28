@@ -1,0 +1,9 @@
+.hey{
+    display: flex;
+}
+.ma{
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('https://img.freepik.com/premium-vector/loading-process-update-system-icon-concept-upgrade-application-progress-icon-graphic-web-design-upgrade-update-system-icon_435184-268.jpg');
+}
